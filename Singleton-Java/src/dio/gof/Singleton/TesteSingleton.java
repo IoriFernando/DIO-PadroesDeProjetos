@@ -1,6 +1,6 @@
-package dio.gof;
+package dio.gof.Singleton;
 
-public class Teste {
+public class TesteSingleton {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
